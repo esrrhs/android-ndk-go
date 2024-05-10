@@ -24,7 +24,7 @@ ENV PATH /usr/local/go/bin:$PATH
 ENV RUSTUP_HOME=/usr/local/rustup \
     CARGO_HOME=/usr/local/cargo \
     PATH=/usr/local/cargo/bin:$PATH \
-    RUST_VERSION=1.65.0
+    RUST_VERSION=1.65.0 \
     RUST_TOOLCHAIN_VER=2022-08-28
 
 RUN set -eux; \
