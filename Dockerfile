@@ -1,5 +1,5 @@
 # https://circleci.com/developer/images/image/cimg/android
-FROM cimg/android:2022.06
+FROM cimg/android:2024.04.1
 
 # NDK see also: https://github.com/CircleCI-Public/circleci-dockerfiles/blob/cb8bda793023d3e919ea5553e2f2c04b71f53c49/android/images/api-28-ndk/Dockerfile#L181
 
